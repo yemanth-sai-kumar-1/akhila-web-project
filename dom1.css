@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+  }
+  h1{
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+  
+  }
+  p{
+    color: white;
+    font-size: 25px;
+    font-family: 'Noto Sans Display', sans-serif;
+  
+  }
+  h2{
+    color: white;
+  }
+  .img {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 10px;
+    display: block;
+  margin-left: 300px;
+    margin-top: 5px;
+    width: 45%;
+  height: 300px;
+  
+  
+  }
+  
